@@ -35,6 +35,8 @@ Just run the unit test and see it fails.
 
 Modify main.py and uncomment the code about --version.
 
+Now retry the test and see it now succeeds.
+
     $ python tests.py
     .
     ----------------------------------------------------------------------
